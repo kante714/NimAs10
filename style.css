@@ -60,7 +60,8 @@ p {
 }
 table {
     width: 100%;
-    font-size: 2.6vh;
+    height: 100%;
+    font-size: 2.2vh;
 }
 table, th, td {
     border: 2px solid #cecece;
@@ -132,7 +133,7 @@ textarea {
 }
 input, textarea {
     margin-bottom: 10px;
-    font-size: 11pt;
+    font-size: 12pt;
     padding: 15px 10px 10px;
     border: 1px solid #cecece;
     background-color: #efefef;
@@ -207,13 +208,13 @@ input, textarea {
 
 h2{
     text-align: center;
-    font-size: 22px;
+    font-size: 21px;
     font-weight: 600;
 }
 
 .caption{
     max-width: 230px;
-    font-size: 12px;
+    font-size: 11px;
     margin: 28px 0;
     display: none;
 }

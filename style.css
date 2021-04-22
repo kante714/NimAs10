@@ -5,7 +5,7 @@ html {
 body {
     font-family: 'Times New Roman', serif;
     font-weight: bold;
-    font-size: 3vh;
+    font-size: 35px;
     background-color: #efefef;
     padding: 10px;
     margin: 0;
@@ -46,7 +46,7 @@ p {
     margin: auto;
 }
 #header p {
-    font-size: 25pt;
+    font-size: 30pt;
     color: rgb(19, 17, 17);
     padding-top: 5px;
     margin: 0;
@@ -54,7 +54,7 @@ p {
     text-align: center;
 }
 .quote {
-    font-size: 3vh;
+    font-size: 35px;
     text-align: right;
     margin-top: 10px;
 }

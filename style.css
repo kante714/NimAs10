@@ -5,7 +5,7 @@ html {
 body {
     font-family: 'Times New Roman', serif;
     font-weight: bold;
-    font-size: 2vh;
+    font-size: 35px;
     background-color: #efefef;
     padding: 10px;
     margin: 0;
@@ -46,7 +46,7 @@ p {
     margin: auto;
 }
 #header p {
-    font-size: 25pt;
+    font-size: 30pt;
     color: rgb(19, 17, 17);
     padding-top: 5px;
     margin: 0;
@@ -54,13 +54,13 @@ p {
     text-align: center;
 }
 .quote {
-    font-size: 2vh;
+    font-size: 35px;
     text-align: right;
     margin-top: 10px;
 }
 table {
     width: 100%;
-    font-size: 2vh;
+    font-size: 34px;
 }
 table, th, td {
     border: 2px solid #cecece;
@@ -132,7 +132,7 @@ textarea {
 }
 input, textarea {
     margin-bottom: 10px;
-    font-size: 11pt;
+    font-size: 14px;
     padding: 15px 10px 10px;
     border: 1px solid #cecece;
     background-color: #efefef;
